@@ -123,7 +123,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="11403.c" />
     <ClCompile Include="1620.c" />
+    <ClCompile Include="1697.c" />
     <ClCompile Include="2805.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
